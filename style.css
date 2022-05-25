@@ -1,0 +1,13 @@
+body{
+  text-align: center;
+  background: linear-gradient( #eb3349 0%, #734b6d 100%)
+}
+ .line{
+    height: 6px;
+    background-color: black;
+    width:70px;
+    margin:8px auto;
+}
+img{
+  height:750px;
+}
